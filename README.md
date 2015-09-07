@@ -1,2 +1,2 @@
-# Introduccion-a-la-programacion-funcional
+# Introducción a la programación funcional
 An introductory course to functional programming in spanish
