@@ -38,7 +38,7 @@ instance Ord Month where
 
 solution1 =
   do
-    putStrLn "Does September comes before November?"
+    putStrLn "Does September come before November?"
     putStrLn (show (September < November))
 {-
 2.-
